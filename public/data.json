@@ -97,7 +97,7 @@
   {
     "title": "Self Care",
     "color": "#F1C75B",
-    "icon": "icon-work.svg",
+    "icon": "icon-self-care.svg",
     "timeframes": {
       "daily": {
         "current": 0,
