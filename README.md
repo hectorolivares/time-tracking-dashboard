@@ -28,8 +28,8 @@ Users should be able to:
 
 ## Links
 
-- Frontend Mentor solution: [Click here]()
-- Live Site URL: [Click here]()
+- Frontend Mentor solution: [Click here](https://www.frontendmentor.io/solutions/time-tracking-dashboard-react-tailwind-css-zcHimGfP5a)
+- Live Site URL: [Click here](https://timetrackingkdm.netlify.app/)
 
 ## Author
 
