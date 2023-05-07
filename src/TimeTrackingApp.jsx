@@ -1,8 +1,8 @@
-import { useState } from "react";
 import { ActivityTime } from "./components/ActivityTime";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export const TimeTrackingApp = () => {
+
   const [data, setData] = useState([]);
 
   // initially we display the 'daily' timeframe
@@ -10,10 +10,10 @@ export const TimeTrackingApp = () => {
 
   // get the json data
   useEffect(() => {
-    fetch("../src/data.json")
+    fetch("data.json")
       .then((res) => res.json())
       .then((data) => setData(data));
-  }, []);
+  },[]);
 
   // gives us the json data with a different timeframe
   const getTime = (newTime) => {
