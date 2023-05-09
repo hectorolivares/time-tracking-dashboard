@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ⏱ Time tracking dashboard ⏱</h1>
+  <h1>Time tracking dashboard</h1>
 </div>
 
 ![Design preview for the Tip calculator app coding challenge](./public/ttd-cover.png)
