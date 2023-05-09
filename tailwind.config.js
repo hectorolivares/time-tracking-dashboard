@@ -7,6 +7,7 @@ export default {
   theme: {
     fontFamily: {
       'sans': ['Rubik', 'sans-serif'],
+      'mono': ['Martian Mono', 'monospace'],
     },
 
     extend: {
@@ -16,10 +17,10 @@ export default {
     },
 
     screens: {
-      'tablet': '834px',
+      'laptop': '1024px',
       // => @media (min-width: 640px) { ... }
 
-      'desktop': '1000px',
+      'desktop': '1300px',
       // => @media (min-width: 1280px) { ... }
     },
   },
